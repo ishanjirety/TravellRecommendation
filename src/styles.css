@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Montaga&display=swap");
+body {
+  font-family: "Montaga", serif;
+  background-image: url("https://wallpaperaccess.com/full/2028728.jpg");
+}
+.App {
+  text-align: center;
+}
+.gener-list {
+  display: block;
+  margin: auto;
+  max-width: 800px;
+  text-align: left;
+  padding: 1rem;
+}
+.Inside-div {
+  padding: 1rem;
+  border-radius: 1rem;
+  border-right: 1px solid black;
+  border-left: 0.5px solid black;
+  background-color: transparent;
+  border-width: 1.5px;
+  margin: 6px;
+}
+ul {
+  text-align: left;
+  list-style: none;
+}
+li {
+  padding: 10px;
+}
+hr {
+  border: 0.1rem solid black;
+}
+.btn-gener {
+  background-color: transparent;
+  border: 1px solid black;
+  margin: 2px 2px 12px 8px;
+  border-radius: 10px;
+  padding: 0.7rem;
+}
